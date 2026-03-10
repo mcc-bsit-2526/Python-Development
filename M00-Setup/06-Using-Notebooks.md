@@ -1,4 +1,4 @@
-# 05 — Opening & Running Jupyter Notebooks
+# 06 — Opening & Running Jupyter Notebooks
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./Setup.md)
