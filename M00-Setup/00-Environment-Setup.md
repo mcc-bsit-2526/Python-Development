@@ -18,6 +18,15 @@
 
 ---
 
+## Can't Install Anything?
+
+If you are on a school computer or cannot install software, you can still access lecture notebooks using **Binder** — no account, no install required. Click the badge below to launch:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcc-bsit-2526/Python-Development/HEAD)
+
+Note: Binder is for interacting, experimenting and reading lecture notebooks only. It does not save your work. For submitting exercises you still need a proper setup — use [GitHub Codespaces](./06-Using-Notebooks.md#option-b--github-codespaces-online-no-install) if you cannot install locally.
+
+---
 ## Setup Checklist
 
 Work through these in order:
