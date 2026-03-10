@@ -1,7 +1,7 @@
 # 04 — GitHub Classroom & Cloning Your Repo
 ### Python Development | MCC BSIT 2526
 
-[Back to Setup Overview](./README.md)
+[Back to Setup Overview](./Setup.md)
 
 ---
 
