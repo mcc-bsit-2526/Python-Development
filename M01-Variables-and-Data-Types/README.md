@@ -9,8 +9,8 @@
 
 ## What to Do
 1. Read M01_Lecture.ipynb
-2. Complete M01_Exercises.ipynb
-3. Accept the activity assignment and push your work
+2. Git clone the [M01-Exercise](./M01-Exercises.ipynb)
+3. Complete it locally in order for you to prepare for the activity
+4. Accept the activity assignment and push your work
 
-
-After your instructor confirms, the activity link will be posted on MS Teams.
+**The link will be posted on your respective MS Teams Assignment Tab**
