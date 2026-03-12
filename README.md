@@ -26,7 +26,7 @@ This repository is **read-only** for students. You do not submit work here. Assi
 
 | Module | Topic | Guide | Lecture | Status |
 |--------|-------|-------|---------|--------|
-| M00 | Setup and Environment | [Setup Guide](./M00-Setup/00-Environment-Setup.md) | — | Available |
+| M00 | Setup and Environment | [Setup Guide](./M00-Setup/00-Environment-Setup.md) | [Python Primer](./M00-Setup/09-Python-Primer.md) | Available |
 | M01 | Variables and Data Types | [M01 Guide](./M01-Variables-and-Data-Types/README.md) | [Lecture](./M01-Variables-and-Data-Types/M01_Lecture.ipynb) | Available |
 | M02 | Operators and Control Flow | — | — | Upcoming |
 | M03 | Loops | — | — | Upcoming |
